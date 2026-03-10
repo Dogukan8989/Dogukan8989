@@ -29,7 +29,6 @@ Ben bir **Full-Stack Developer** adayıyım. Modern web teknolojileri, veritaban
 ---
 
 ### 📫 Bana Ulaşın
-- **LinkedIn:** [linkedin.com/in/kullanici-adin](https://linkedin.com/in/kullanici-adin)
 - **Discord:** `Dogukan8989`
 
 ---
