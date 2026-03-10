@@ -1,21 +1,24 @@
 # Selam! Ben Arif Doğukan 👋
 
 ### 👨‍💻 Hakkımda
-Ben bir **Full-Stack Developer** adayıyım. Modern web teknolojileri, veritabanı yönetimi ve otomasyon sistemleri üzerine projeler geliştiriyorum. Kod yazmayı sadece bir iş değil, bir problem çözme sanatı olarak görüyorum.
+Ben modern teknolojiler, oyun geliştirme ve veritabanı yönetimi üzerine yoğunlaşmış bir geliştiriciyim. Projelerimde hem işlevselliğe hem de görsel estetiğe önem veriyorum.
 
-- 🤖 **Discord Bot Geliştirme:** JavaScript kullanarak fonksiyonel ve kullanıcı dostu botlar tasarlıyorum.
-- 🗄️ **Veritabanı:** SQL ve T-SQL konularında kendimi geliştiriyor, karmaşık veri yapıları üzerinde çalışıyorum.
-- 🌐 **Web Geliştirme:** Modern, hızlı ve duyarlı (responsive) arayüzler üzerine odaklanıyorum.
+- 👾 **Oyun Geliştirme:** Unity motoru ve C# kullanarak interaktif deneyimler ve görsel uygulamalar geliştiriyorum.
+- 🤖 **Discord Bot Geliştirme:** JavaScript ile fonksiyonel ve gelişmiş bot sistemleri tasarlıyorum.
+- 🗄️ **Veritabanı Uzmanı:** SQL ve T-SQL kullanarak karmaşık veri yapıları ve veritabanı yönetimi üzerine çalışıyorum.
+- 🎨 **Görsel Tasarım:** Photoshop ile projelerim için profesyonel grafikler ve arayüz elementleri üretiyorum.
 
 ---
 
-### 🛠️ Teknolojiler & Araçlar
+### 🛠️ Teknolojiler & Yetenekler
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=black" />
 </p>
 
 ---
@@ -30,8 +33,9 @@ Ben bir **Full-Stack Developer** adayıyım. Modern web teknolojileri, veritaban
 
 ### 📫 Bana Ulaşın
 - **Discord:** `Dogukan8989`
+- **GitHub:** [Dogukan8989](https://github.com/Dogukan8989)
 
 ---
 <p align="center">
-  <i>"Kod, şiir gibi yazılmalı; herkes okuyabilmeli ama sadece ustalar derinliğini anlamalı."</i>
+  <i>"Hayal edilebilen her şey, kodlanabilir."</i>
 </p>
