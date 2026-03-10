@@ -1,7 +1,7 @@
 # Selam! Ben Arif Doğukan 👋
 
 ### 👨‍💻 Hakkımda
-Ben modern teknolojiler, oyun geliştirme ve veritabanı yönetimi üzerine yoğunlaşmış bir geliştiriciyim. Projelerimde hem işlevselliğe hem de görsel estetiğe önem veriyorum.
+Ben Web tasarım ve SQL ile uğraşan bir geliştiriciyim. Projelerimde hem işlevselliğe hem de görsel estetiğe önem veriyorum.
 
 - 👾 **Oyun Geliştirme:** Unity motoru ve C# kullanarak interaktif deneyimler ve görsel uygulamalar geliştiriyorum.
 - 🤖 **Discord Bot Geliştirme:** JavaScript ile fonksiyonel ve gelişmiş bot sistemleri tasarlıyorum.
