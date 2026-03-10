@@ -31,7 +31,7 @@ Ben Web tasarım ve SQL ile uğraşan bir geliştiriciyim. Projelerimde hem işl
 ---
 
 ### 📫 Bana Ulaşın
-- **Discord:** `Dogukan8989`
+- **Discord:** `Dogukan96.98`
 - **GitHub:** [Dogukan8989](https://github.com/Dogukan8989)
 
 ---
