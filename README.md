@@ -24,9 +24,7 @@ Ben modern teknolojiler, oyun geliştirme ve veritabanı yönetimi üzerine yoğ
 ---
 
 ### 📊 GitHub İstatistiklerim
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Dogukan8989&show_icons=true&theme=visual_studio_code&include_all_commits=true&count_private=true" />
-</p>
+![Dogukan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dogukan8989&show_icons=true&theme=dark)
 
 ---
 
