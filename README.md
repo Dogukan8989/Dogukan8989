@@ -6,7 +6,7 @@ Ben Web tasarım ve SQL ile uğraşan bir geliştiriciyim. Projelerimde hem işl
 - 👾 **Oyun Geliştirme:** Unity motoru ve C# kullanarak interaktif deneyimler ve görsel uygulamalar geliştiriyorum.
 - 🤖 **Discord Bot Geliştirme:** JavaScript ile fonksiyonel ve gelişmiş bot sistemleri tasarlıyorum.
 - 🗄️ **Veritabanı Geliştirme:** SQL ve T-SQL kullanarak karmaşık veri yapıları ve veritabanı yönetimi üzerine çalışıyorum.
-- 🗄️ **Web Tasarım Geliştirme:** HTML/CSS kullanarak web tasarım geliştirme üzerinde çalışıyorum.
+- 🗄️ **Web Tasarım Geliştirme:** HTML5/CSS3 kullanarak web tasarım geliştirme üzerinde çalışıyorum.
 - 🎨 **Görsel Tasarım:** Photoshop ile projelerim için profesyonel grafikler ve arayüz elementleri üretiyorum.
 
 ---
